@@ -3,9 +3,6 @@
 Hello everyone. This*emphasized text* is meda siva manoj persuing  Btech computer science and engineering course at IIT Goa.
 # Education
 |Academic year                |Standard              |School name                        |
-
- - List item
-
 |----------------|-------------------------------|-----------------------------|
 |2022-2023|12th           |Narayana college          |
 |2023-2024        |Btech-1st year           |IIT Goa           |
