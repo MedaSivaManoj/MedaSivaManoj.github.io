@@ -1,21 +1,21 @@
-.Aboutme {
+.About-me {
   border: 2pt solid black;
   backgroud-color: light salmon;
   padding: 20px;
   display: flex;
   align-items: center;
 }
-.About me h1 {
+.About-me h1 {
   fot-weight: bold;
   font-family: 'Times New Roman',Times,Serif;
   font-size: 13pt;
   margin-right: 20px;
 }
-.About me img{
+.About-me img{
   width: 172px;
   height: 172px;
 }
-.About me p {
+.About-me p {
   font-family: sans-serif;
   color: blue;
 }
