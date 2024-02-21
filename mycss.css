@@ -1,1 +1,7 @@
-
+.About me {
+  border: 2pt solid black;
+  backgroud-color: light salmon;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
